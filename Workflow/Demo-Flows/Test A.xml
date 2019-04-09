@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<workflow xmlns="http://vmware.com/vco/workflow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://vmware.com/vco/workflow http://vmware.com/vco/workflow/Workflow-v4.xsd" root-name="item1" object-name="workflow:name=generic" id="a573ab1b-2a4a-436b-bacb-626194fbfd7d" version="0.0.1" api-version="6.0.0" allowed-operations="vef" restartMode="1" resumeFromFailedMode="0">
+<workflow xmlns="http://vmware.com/vco/workflow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://vmware.com/vco/workflow http://vmware.com/vco/workflow/Workflow-v4.xsd" root-name="item1" object-name="workflow:name=generic" id="a573ab1b-2a4a-436b-bacb-626194fbfd7d" version="0.0.2" api-version="6.0.0" allowed-operations="vef" restartMode="1" resumeFromFailedMode="0">
   <display-name><![CDATA[Test A]]></display-name>
   <position y="50.0" x="100.0"/>
+  <attrib name="att0" type="string" read-only="false" conf-id="68c77ff5-bdbc-4db4-a443-32dd2343e34c" conf-key="host">
+    <value encoded="n"><![CDATA[]]></value>
+  </attrib>
   <workflow-item name="item0" type="end" end-mode="0">
     <position y="45.40909090909091" x="384.5"/>
   </workflow-item>
