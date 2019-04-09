@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">Demo-Flows</entry>
+<entry key="categoryPathEscaped">RGVtby1GbG93cw==</entry>
+<entry key="name">Test A</entry>
+<entry key="type">Workflow</entry>
+<entry key="id">a573ab1b-2a4a-436b-bacb-626194fbfd7d</entry>
+</properties>
